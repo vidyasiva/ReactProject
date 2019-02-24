@@ -1,0 +1,29 @@
+ .profile_pic {
+    float: right;
+    margin: 30px 30px 20px 20px;
+}
+
+.profile_text {
+    clear: both;
+    float: right;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.username {
+   clear: both;
+    float: right;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.cover_photo {
+   margin-right: 20px;
+}
+
+.album_title {
+   margin: 89px;
+   clear: both;
+   color: blue;
+   font-size: 33px;
+}
